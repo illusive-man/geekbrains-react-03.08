@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 {
   "presets": [
     "env",
     "react",
     "stage-0"
   ]
+=======
+{
+  "presets": ["react"]
+>>>>>>> upstream/master
 }
